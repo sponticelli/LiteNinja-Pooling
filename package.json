@@ -1,0 +1,23 @@
+{
+    "name": "com.liteninja.pooling",
+    "version": "1.0.0",
+    "displayName": "LiteNinja Pooling",
+    "description": "A Pooling system for Unity",
+    "unity": "2021.1",
+    "documentationUrl": "https://github.com/sponticelli/LiteNinja-Pooling/blob/main/README.md",
+    "changelogUrl": "https://github.com/sponticelli/LiteNinja-Pooling/blob/main/changelog.md",
+    "licensesUrl": "https://github.com/sponticelli/LiteNinja-Pooling/blob/main/LICENSE",
+    "dependencies": {
+    },
+    "keywords": [
+      "utility",
+      "Pooling",
+      "architecture",
+      "utils"
+    ],
+    "author": {
+      "name": "Sandro Ponticelli",
+      "email": "sandro.ponticelli@gmail.com",
+      "url": "https://github.com/sponticelli"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "name": "LiteNinja.Pooling.Editor",
+    "references": [
+        "GUID:eb2a60a7b42d1904eb27e126f960e69c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
